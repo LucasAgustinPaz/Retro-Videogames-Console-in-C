@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1654537308 source:c:\users\lukig\desktop\utn\programacion full\consolamain\consolamain\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1655944721 source:c:\users\lukig\desktop\proyecto final\consolamain\consolamain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1656477458 source:c:\users\sofia\desktop\consolamain\consolamain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1656588209 source:c:\users\sofia\desktop\consolaretro\consolamain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1656588209 source:c:\users\sofia\desktop\facultad\programacion i\trabajo final lab\consolaretro\consolamain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1680318392 source:c:\users\sofia\desktop\facultad\1er cuatri\programacion i\trabajo final lab\consolaretro\consolamain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
